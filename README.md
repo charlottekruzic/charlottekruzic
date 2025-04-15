@@ -3,7 +3,7 @@
 ### Aspiring Data Scientist | AI Developer 
 
 🎓 Master's in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
-💼 Currently interning at [HIFI FILTER](https://www.hifi-filter.com/)  
+💼 Currently interning at [HIFI FILTER](https://hifi-filter.com/en/)
 📍 Based in France  
 <!--
 🌐 [Portfolio](https://charlottekruzic.github.io/) (*coming soon*)   

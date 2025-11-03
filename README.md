@@ -1,6 +1,6 @@
 ## Hi! I'm Charlotte Kruzic 😎
 
-### ML/AI Engineer | Data Scientist
+### Data Scientist | Data Engineer
 
 🎓 Master's degree in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
 📍 Based in France 

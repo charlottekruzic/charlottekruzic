@@ -1,13 +1,13 @@
 ## Hi! I'm Charlotte Kruzic 😎
 
-### Data Scientist | Data Engineer
-
+💻 Data Engineer @ [Montpellier University Hospital](https://www.chu-montpellier.fr/en/)  
 🎓 Master's degree in Computer Science (Data Science & Complex Systems) @ [University of Strasbourg](https://en.unistra.fr/)  
-📍 Based in France 
+📍 Based in France  
 <!--
 🌐 [Portfolio](https://charlottekruzic.github.io/) (*coming soon*)   
 📫 Reach me at: [todo-mail](mailto:todo-mail)  
 -->
+
 
 <div align="center">
   <b>what drives me is the curiosity to see where each dataset takes me</b>
